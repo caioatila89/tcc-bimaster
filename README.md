@@ -1,4 +1,4 @@
-# Análise de Sentimentos dos tweets publicados pelo jornal americam The New York Times
+# Análise de Sentimentos dos tweets publicados pelo jornal americano The New York Times
 
 #### Aluno: [Caio Atila Russi dos Santos](https://github.com/caioatila89/)
 #### Orientador: [Leonardo Alfredo Forero Mendoza](https://github.com/leofome8)
